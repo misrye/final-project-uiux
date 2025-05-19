@@ -61,6 +61,12 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 
 ---
 
+## 📤 File yang harus dikumpulkan
+1. Link Figma
+2. pdf Deskripsi
+
+---
+
 ## 📊 Kriteria Penilaian
 
 | Aspek Penilaian             | Bobot | Deskripsi Penilaian                                               |
@@ -70,3 +76,6 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 | Prototyping Interaktif     | 20%   | - Navigasi antar halaman berjalan baik<br>- Interactive Prototype<br> |
 | Kelengkapan Frame dan Alur Aplikasi | 15% | - Frame lengkap sesuai fitur<br>- Alur pengguna jelas dan logis |
 | Kreativitas UI dan Kenyamanan UX   | 20% |  - Tampilan menarik dan orisinal<br>- Penggunaan warna, tipografi, dan ikon konsisten<br>- UX nyaman, efektif, dan mudah digunakan |
+
+---
+enjoy :)
