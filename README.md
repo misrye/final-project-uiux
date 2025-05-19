@@ -23,7 +23,7 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
     - Rekomendasi plugin : **Breakpoints**
     - ![alt text](image.png)
     - [Link Plugin](https://www.figma.com/community/plugin/824289601590456356)
-4. [Link Video Belajar](https://youtube.com/playlist?list=PLorlSM7MW5c_rT2WQ-I4VMb-EakmYJDxx&si=PF7Uy6prNAzAuGbf)
+4. [Link Video (sebagai referensi)](https://youtube.com/playlist?list=PLorlSM7MW5c_rT2WQ-I4VMb-EakmYJDxx&si=PF7Uy6prNAzAuGbf)
 
 ## 🎨 Petunjuk Figma Variable
 1. Gunakan **Variable** untuk pengaturan warna, teks, ukuran, dan lainnya.
@@ -32,7 +32,7 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
     - Mengubah bahasa
     - Perhitungan (Checkout, Price, dll)
     - Toggle
-3. [Link Video Belajar](https://youtube.com/playlist?list=PLorlSM7MW5c-wHdurDi6ExDdIVE4ZYiJ_&si=MWUvWqYjfRWjvDwu)
+3. [Link Video (sebagai referensi)](https://youtube.com/playlist?list=PLorlSM7MW5c-wHdurDi6ExDdIVE4ZYiJ_&si=MWUvWqYjfRWjvDwu)
 
 ## 🌠 Petunjuk Prototyping
 1. Buat **Prototype** sesuai fitur yang ada
@@ -41,7 +41,7 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
     - dropdown
     - slider
     - tombol volume, dsb.
-4. [Link Video Belajar](https://youtube.com/playlist?list=PLorlSM7MW5c8DpnRbAQZHXyp5pPjqn3bA&si=6q3MTo-wHbGyLf99)
+4. [Link Video (sebagai referensi)](https://youtube.com/playlist?list=PLorlSM7MW5c8DpnRbAQZHXyp5pPjqn3bA&si=6q3MTo-wHbGyLf99)
 
 ## 🍃 Petunjuk Deskripsi
 1. Menyusun deskripsi singkat proyek
