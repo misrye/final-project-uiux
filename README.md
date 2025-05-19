@@ -55,4 +55,5 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
     - Variable diimplementasikan untuk apa?
     - interactive prototype yang dibuat apa saja?
     - Hal keren lain yang bisa dijelaskan
-3. Simpan dalam bentuk .pdf, format nama file yaitu: nama_uiux_namaDesignUIUXyangdirancang. contoh: Lukman_uiux_VirtuLab
+3. Simpan dalam bentuk .pdf, format nama file yaitu: nama_uiux_namaDesignUIUXyangdirancang. 
+    contoh: Lukman_uiux_VirtuLab
