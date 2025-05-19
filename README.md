@@ -62,7 +62,7 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 ---
 
 ## 📤 File yang harus dikumpulkan
-1. Link Figma
+1. Link Figma (public access)
 2. File PDF Deskripsi
 
 ---
