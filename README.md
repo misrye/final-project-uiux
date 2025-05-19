@@ -45,7 +45,7 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 
 ## 🍃 Petunjuk Deskripsi
 1. Menyusun deskripsi singkat proyek
-2. Point-point yang harus dijelaskan:
+2. Points yang harus dijelaskan:
     - jenis Design UI/UX yang telah dirancang (edukasi, kesehatan, produktivitas, dll)?
     - Fitur yang ada?
     - Frame apa yang digunakan?, ukuran berapa?
@@ -55,3 +55,4 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
     - Variable diimplementasikan untuk apa?
     - interactive prototype yang dibuat apa saja?
     - Hal keren lain yang bisa dijelaskan
+3. Simpan dalam bentuk .pdf, format nama file yaitu: nama_uiux_namaDesignUIUXyangdirancang. contoh: Lukman_uiux_VirtuLab
