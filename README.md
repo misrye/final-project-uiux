@@ -58,3 +58,14 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 3. Simpan dalam bentuk .pdf, 
     - format nama file yaitu: nama_uiux_namaDesignUIUXyangdirancang
     - contoh: Lukman_uiux_VirtuLab
+
+---
+
+## 📊 Kriteria Penilaian
+
+| No | Aspek Penilaian             | Bobot | Deskripsi Penilaian                                               |
+|----|----------------------------|-------|------------------------------------------------------------------|
+| 1  | Desain Responsif           | 25%   | - Menggunakan frame mobile & desktop<br>- Auto layout konsisten<br>- Responsive saat diuji |
+| 2  | Penggunaan Figma Variables | 20%   | - Menggunakan variable warna, teks, ukuran, dll<br>- Implementasi nyata (mode gelap/terang, harga dinamis, dsb) |
+| 3  | Prototyping Interaktif     | 20%   | - Navigasi antar halaman berjalan baik<br>- Terdapat interaksi (dropdown, slider, dll)<br>- Smart animate/interaction logic |
+| 4  | Kelengkapan Frame dan Alur Aplikasi | 15% | - Frame lengkap sesuai fitur<br>- Alur pengguna jelas dan logis (login → home → fitur utama → dll) |
