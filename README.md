@@ -46,24 +46,24 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 ## 🍃 Petunjuk Deskripsi
 1. Menyusun deskripsi singkat proyek
 2. Points yang harus dijelaskan:
-    - jenis Design UI/UX yang telah dirancang (edukasi, kesehatan, produktivitas, dll)?
+    - Jenis Design UI/UX yang telah dirancang (edukasi, kesehatan, produktivitas, dll)?
     - Fitur yang ada?
     - Frame apa yang digunakan?, ukuran berapa?
-    - plugin apa saja yang digunakan?
-    - bagaimana petunjuk dari pembuat terhadap design ui/ux, untuk kami melakukan testing terhadap responsive design yang telah dibuat?
-    - variable yang digunakan apa saja?
+    - Plugin apa saja yang digunakan?
+    - Bagaimana petunjuk dari pembuat terhadap design ui/ux, untuk kami melakukan testing terhadap responsive design yang telah dibuat?
+    - Variable yang digunakan apa saja?
     - Variable diimplementasikan untuk apa?
-    - interactive prototype yang dibuat apa saja?
+    - Interactive prototype yang dibuat apa saja?
     - Hal keren lain yang bisa dijelaskan
 3. Simpan dalam bentuk .pdf, 
-    - format nama file yaitu: nama_uiux_namaDesignUIUXyangdirancang
-    - contoh: Lukman_uiux_VirtuLab
+    - Format nama file yaitu: nama_uiux_namaDesignUIUXyangdirancang
+    - Contoh: Lukman_uiux_VirtuLab
 
 ---
 
 ## 📤 File yang harus dikumpulkan
 1. Link Figma
-2. pdf Deskripsi
+2. File PDF Deskripsi
 
 ---
 
