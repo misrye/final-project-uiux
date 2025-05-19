@@ -21,7 +21,8 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 2. untuk mengatur responsive di ukuran layar antara frame mobile dan frame desktop, gunakan fitur **Auto Layout** 
 3. Atur breakpoint, untuk menghubungkan responsive antara frame mobile dan desktop, boleh menggunakan Plugin. 
     Rekomendasi plugin : **Breakpoint**
-    ![alt text](image.png) [Link Plugin](https://www.figma.com/community/plugin/824289601590456356)
+    ![alt text](image.png)
+    [Link Plugin](https://www.figma.com/community/plugin/824289601590456356)
 
 ## 🎨 Petunjuk Figma Variable
 1. Gunakan **Variabel** untuk pengaturan warna, teks, ukuran, dan lainnya.
