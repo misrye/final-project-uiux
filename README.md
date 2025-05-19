@@ -63,9 +63,10 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 
 ## 📊 Kriteria Penilaian
 
-| No | Aspek Penilaian             | Bobot | Deskripsi Penilaian                                               |
-|----|----------------------------|-------|------------------------------------------------------------------|
-| 1  | Desain Responsif           | 25%   | - Menggunakan frame mobile & desktop<br>- Auto layout konsisten<br>- Responsive saat diuji |
-| 2  | Penggunaan Figma Variables | 20%   | - Menggunakan variable warna, teks, ukuran, dll<br>- Implementasi nyata (mode gelap/terang, harga dinamis, dsb) |
-| 3  | Prototyping Interaktif     | 20%   | - Navigasi antar halaman berjalan baik<br>- Terdapat interaksi (dropdown, slider, dll)<br>- Smart animate/interaction logic |
-| 4  | Kelengkapan Frame dan Alur Aplikasi | 15% | - Frame lengkap sesuai fitur<br>- Alur pengguna jelas dan logis (login → home → fitur utama → dll) |
+| Aspek Penilaian             | Bobot | Deskripsi Penilaian                                               |
+|----------------------------|-------|------------------------------------------------------------------|
+| Desain Responsif           | 25%   | - Menggunakan frame mobile & desktop<br>- Auto layout<br>- Responsive saat diuji |
+| Penggunaan Figma Variables | 20%   | - Menggunakan variable<br>- Implementasi|
+| Prototyping Interaktif     | 20%   | - Navigasi antar halaman berjalan baik<br>- Interactive Prototype<br> |
+| Kelengkapan Frame dan Alur Aplikasi | 15% | - Frame lengkap sesuai fitur<br>- Alur pengguna jelas dan logis |
+| Kreativitas UI dan Kenyamanan UX   | 20% |  Tampilan menarik dan orisinal<br>- Penggunaan warna, tipografi, dan ikon konsisten<br>- UX nyaman, efektif, dan mudah digunakan |
