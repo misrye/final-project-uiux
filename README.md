@@ -6,19 +6,22 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 ---
 
 ## 🎯 Tujuan Proyek
-1. Membuat desain **responsive**.
-2. Mengimplementasikan **Figma variables**
-3. Membuat**prototipe** dari hasil desain.
-4. Mengimplementasikan fitur **component** dalam desain.
+1. Membuat desain **Responsive**.
+2. Mengimplementasikan **Figma Variables**
+3. Membuat **Prototype** dari hasil desain.
 
 ---
 
-## 📚 Petunjuk Pengerjaan
-1. Pelajari kembali materi Learning Series 1 – 4 (lihat di Instagram: [@gdgoc.unesa](https://instagram.com/gdgoc.unesa)).
-2. Tentukan jenis Design UI/UX yang ingin dirancang (edukasi, kesehatan, produktivitas, dll).
-3. Pilih ukuran **Frame Mobile** dan **Frame Desktop** untuk design responsive
-4. Gunakan **Auto Layout** untuk mempermudah responsive di ukuran layar antara frame mobile dan frame desktop
-5. Gunakan Plugin **Breakpoint** atau yang sejenis untuk menghubungkan responsive antar frame
+## 📚 Petunjuk Umum Pengerjaan
+- [x] Pelajari kembali materi Learning Series 1 – 4 (lihat di Instagram: [@gdgoc.unesa](https://instagram.com/gdgoc.unesa)).
+- [x] Tentukan jenis Design UI/UX yang ingin dirancang (edukasi, kesehatan, produktivitas, dll).
+
+## 🤩 Petunjuk Responsive Design
+1. Pilih ukuran **Frame Mobile** dan **Frame Desktop**
+2. untuk mengatur responsive di ukuran layar antara frame mobile dan frame desktop, gunakan fitur **Auto Layout** 
+3. Untuk menghubungkan responsive antara frame mobile dan desktop, gunakan Plugin **Breakpoint** atau yang sejenis 
+
+
 6. Gunakan **variabel** untuk pengaturan warna, teks, ukuran, dan lainnya.
 7. Buat **Prototype** sesuai fitur yang ada dan alur antar halaman
 8. Menyusun narasi singkat proyek, Download Word
