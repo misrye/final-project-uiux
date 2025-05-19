@@ -1,4 +1,4 @@
-# 📱 Proyek UI/UX Design yang Responsive, Variabel Dinamis, dan Prototyping
+# 📱 Proyek UI/UX Design yang Responsive, Variable, dan Prototyping
 
 ## 📝 Deskripsi Singkat
 Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yaitu responsive design, Figma variables, dan prototyping. Hasil akhir berupa rancangan UI/UX Design.
@@ -20,13 +20,13 @@ Peserta akan merancang UI/UX dengan menerapkan materi yang telah dipelajari, yai
 1. Pilih ukuran **Frame Mobile** dan **Frame Desktop**
 2. untuk mengatur responsive di ukuran layar antara frame mobile dan frame desktop, gunakan fitur **Auto Layout** 
 3. Atur breakpoint, untuk menghubungkan responsive antara frame mobile dan desktop, boleh menggunakan Plugin. 
-    - Rekomendasi plugin : **Breakpoint**
+    - Rekomendasi plugin : **Breakpoints**
     - ![alt text](image.png)
     - [Link Plugin](https://www.figma.com/community/plugin/824289601590456356)
 4. [Link Video Belajar](https://youtube.com/playlist?list=PLorlSM7MW5c_rT2WQ-I4VMb-EakmYJDxx&si=PF7Uy6prNAzAuGbf)
 
 ## 🎨 Petunjuk Figma Variable
-1. Gunakan **Variabel** untuk pengaturan warna, teks, ukuran, dan lainnya.
+1. Gunakan **Variable** untuk pengaturan warna, teks, ukuran, dan lainnya.
 2. Beberapa Contoh Implementasi variabel
     - Membuat Light Mode & Dark Mode
     - Mengubah bahasa
